@@ -1,2 +1,2 @@
 # PersonalHelpers
-My JavaScript Exam Tasks
+Repository for remote access to some files

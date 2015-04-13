@@ -1,2 +1,2 @@
-# My-JS-Exam
+# PersonalHelpers
 My JavaScript Exam Tasks

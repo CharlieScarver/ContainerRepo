@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/5358010/regex-failing-when-pattern-involves-dollar-sign
+
+http://stackoverflow.com/questions/3090067/subtracting-dates-in-php
+
+http://stackoverflow.com/questions/9599374/count-string-occurrences-in-array
+

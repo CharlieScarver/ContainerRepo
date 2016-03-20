@@ -1,0 +1,3 @@
+1. var result = []; ??
+2. goto edit/:id and use old data, without making a new request
+

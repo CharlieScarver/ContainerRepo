@@ -1,0 +1,2 @@
+FloatingLandScript[] floatingLandPieces = (FloatingLandScript[]) GameObject.FindObjectsOfType( typeof(FloatingLandScript) );
+// weow

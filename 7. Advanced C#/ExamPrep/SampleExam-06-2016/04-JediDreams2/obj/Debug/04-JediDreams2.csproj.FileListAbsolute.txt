@@ -1,0 +1,6 @@
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\bin\Debug\04-JediDreams2.exe.config
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\bin\Debug\04-JediDreams2.exe
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\bin\Debug\04-JediDreams2.pdb
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\obj\Debug\04-JediDreams2.csprojResolveAssemblyReference.cache
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\obj\Debug\04-JediDreams2.exe
+D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\04-JediDreams2\obj\Debug\04-JediDreams2.pdb

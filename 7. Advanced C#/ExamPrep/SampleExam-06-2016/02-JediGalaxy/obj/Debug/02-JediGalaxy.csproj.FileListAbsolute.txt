@@ -1,6 +1,0 @@
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\bin\Debug\02-JediGalaxy.exe.config
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\bin\Debug\02-JediGalaxy.exe
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\bin\Debug\02-JediGalaxy.pdb
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\obj\Debug\02-JediGalaxy.csprojResolveAssemblyReference.cache
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\obj\Debug\02-JediGalaxy.exe
-D:\Admin\Programming 2\SoftUni 3.0\C# Fundamentals\Advanced C#\ExamPrep\SampleExam-06-2016\02-JediGalaxy\obj\Debug\02-JediGalaxy.pdb
